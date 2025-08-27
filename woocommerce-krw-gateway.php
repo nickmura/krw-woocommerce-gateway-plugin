@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: KRW Stablecoin for WooCommerce
- * Plugin URI: https://example.com/krw-stablecoin-woocommerce
+ * Plugin Name: KRW Stablecoin for WooCommerce (WonWay)
+ * Plugin URI: https://wonway.xyz
  * Description: Accept KRW stablecoin payments in WooCommerce - supporting Korean Won digital currency transactions
  * Version: 1.0.0
  * Author: Nick Mura
